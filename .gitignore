@@ -1,0 +1,8 @@
+
+#ignore ligtning logs
+lightning_logs/*
+
+#ignore checkpoints
+*.ckpt
+
+wandb/*
