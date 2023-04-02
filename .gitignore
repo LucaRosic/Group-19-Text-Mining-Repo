@@ -4,3 +4,5 @@ lightning_logs/*
 
 #ignore checkpoints
 *.ckpt
+
+wandb/*
